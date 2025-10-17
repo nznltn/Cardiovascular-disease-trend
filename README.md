@@ -9,3 +9,5 @@ The ongoing project will include the following files:
 05_regional_clustering
 06_predictive_modeling
 07_country_case_studies
+
+More detailed description of the data will be added. 
